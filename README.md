@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on ...
 - ☑️ I’m learning: How to find a job 😄😄, and learning front end development .
 - 💬 Tell me: Where is the best place in the world? 🌎
-- 📫 You can find me in: &nbsp; <a href="https://linkedin.com/in/mateusgomes0" target="_blank"><i class="fab fa-linkedin-in"></i></a>
--  😶 Frase: "É impossível vencer alguém que não desiste nunca."
+- 📫 You can find me in: &nbsp; <a href="https://linkedin.com/in/mateusgomes0" target="_blank">Linkedin</a>
+-  😶 Frase: "É impossível vencer alguém que não desiste nunca." by: ?
