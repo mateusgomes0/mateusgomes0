@@ -1,5 +1,5 @@
 ### Wassup people 👽
-<h3>I'm a student. I'm 20 years old and I have a lot to learn.</h3>
+<h3>I'm a "student". I'm 20 years old and I have a lot to learn.</h3>
 
 <!--
 **mateusgomes0/mateusgomes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
