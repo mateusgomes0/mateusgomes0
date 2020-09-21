@@ -4,8 +4,8 @@
 <!--
 **mateusgomes0/mateusgomes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my best version.
-- ☑️ I’m learning: How to find a job 😄😄, and learning python🐍.
+- 🔭 I’m currently working on ...
+- ☑️ I’m learning: How to find a job 😄😄, and learning front end development .
 - 💬 Tell me: Where is the best place in the world? 🌎
-- 📫 You can find me in: &nbsp; <a href="mailto:mateuss.gomes@outlook.com">Email</a>
+- 📫 You can find me in: &nbsp; <a href="https://linkedin.com/in/mateusgomes0" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 -  😶 Frase: "É impossível vencer alguém que não desiste nunca."
